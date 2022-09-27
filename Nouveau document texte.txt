@@ -1,4 +1,8 @@
 toto
 titi
 tutu
+ligne 1
 ligne 2
+git squash
+rebase
+
